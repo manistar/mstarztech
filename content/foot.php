@@ -3,6 +3,7 @@
     <h1>bottom</h1>
     <script src="./app-assets/vendors/js/material-vendors.min.js"></script>
     <!-- BEGIN Vendor JS-->
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
     <script src="js/my.js"></script>
     <!-- BEGIN: Page Vendor JS-->
     <script src="./app-assets/vendors/js/charts/chart.min.js"></script>
